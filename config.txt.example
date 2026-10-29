@@ -1,0 +1,7 @@
+# Copy this file to config.txt. Keep your real token private.
+token = CHANGE_THIS_TEXT_FOR_YOUR_TWITCH_USER_ACCESS_TOKEN
+bot_name = your_bot_username
+channels = your_channel
+prefix = !
+ignored_users = streamelements
+reconnect_delay = 10

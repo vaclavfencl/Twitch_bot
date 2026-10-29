@@ -1,0 +1,222 @@
+{
+  "commands": {
+    "slap": {
+      "type": "interaction",
+      "cooldown_seconds": 30,
+      "exclude_bot": false,
+      "responses": [
+        "{user} vlepil tvrdou facku uživateli {target}.",
+        "{user} dal takovou facku uživateli {target}, že druhou dostal o zem!",
+        "{user} napřáhl ruku a švihnul uživatele {target}",
+        "{user} fackoval {target}, až mu z toho zvonilo v uších.",
+        "{user} a {target} si dali přátelskou facku. Ale jen jednu... asi."
+      ],
+      "fallback_responses": [
+        "{user} beatnul meat."
+      ]
+    },
+    "kiss": {
+      "type": "interaction",
+      "cooldown_seconds": 30,
+      "exclude_bot": true,
+      "responses": [
+        "{user} políbil {target} na tvář. ❤️",
+        "{user} poslal vzdušný polibek směrem k {target}.",
+        "{user} a {target} se líbají na veřejnosti... 🙈",
+        "{user} věnoval sladký polibek {target}. 😘",
+        "{user} a {target} si dali romantický polibek pod hvězdami. 🌟"
+      ],
+      "fallback_responses": [
+        "{user} políbil svůj odraz v zrcadle... smutné."
+      ]
+    },
+    "hug": {
+      "type": "interaction",
+      "cooldown_seconds": 30,
+      "exclude_bot": true,
+      "responses": [
+        "{user} a {target} si vyměnili přátelské objetí. 🤗",
+        "{user} sevřel {target} v medvědím objetí. 🐻",
+        "{user} a {target} sdílejí teplo přátelského objetí. ❤️",
+        "{user} dal {target} útěšné objetí. Všechno bude dobré!"
+      ],
+      "fallback_responses": [
+        "{user} objal sám sebe. Sebeláska je důležitá!"
+      ]
+    },
+    "fight": {
+      "type": "fight",
+      "cooldown_seconds": 30,
+      "exclude_bot": true,
+      "responses": [
+        "{user} vyzval {target} na souboj. A {winner} zvítězil! 🥊",
+        "{user} a {target} se pustili do boje, vítěz je {winner}!",
+        "{user} dal ránu, ale {target} mu ji vrátil. {winner} vyhrál!",
+        "{user} a {target} bojovali do posledního dechu. Vítěz: {winner}.",
+        "Souboj mezi {user} a {target} byl epický, ale {winner} se stal šampionem!"
+      ],
+      "fallback_responses": [
+        "Proč se mlátíš {user}?"
+      ]
+    },
+    "deep": {
+      "type": "response",
+      "cooldown_seconds": 60,
+      "responses": [
+        "Hearing is the last sense you lose before dying. Deal with it",
+        "If given access to it, butterflies will happily drink blood",
+        "Your skeleton is always wet, and one day it will outlast every part of you that ever truly mattered.",
+        "An ally of Joan of Arc, Gilles de Rais, was a serial killer, who raped and murdered hundreds of children.",
+        "A man's ball sack can be ripped open as easily as you open a bag of chips.",
+        "Your phone has more germs than a public washroom.",
+        "Dogs like squeaky toys because the sound mimics that of captured prey.",
+        "There are places in your home you haven’t looked at in years—what if something is silently watching you from there?",
+        "When you die, someone will inherit your things and think about how little they really mean.",
+        "Somewhere, right now, there’s a photograph of you that you’ve never seen, in the possession of someone you’ve never met.",
+        "Your brain protects you from remembering the exact moment you fell asleep each night. Why do you think that is?",
+        "Every object in your room has silently witnessed every moment of your life, including the ones you’d rather forget.",
+        "Someone out there knows a secret about you that you’ve forgotten—but they never will.",
+        "You’ve walked through places where people have died, and you didn’t even notice the chill.",
+        "At least one person who smiled at you did so only because they were imagining something cruel.",
+        "Your worst fear has already happened to someone, and they didn’t survive it.",
+        "Your body knows how to die—it’s just waiting for the right moment.",
+        "Your heart has a finite number of beats, and you’re wasting some of them reading this.",
+        "The shadows in your room know more about you than anyone else ever will.",
+        "You’ll never know which of your loved ones will be the first to forget your face.",
+        "The next time you blink, you could be seeing the world for the last time.",
+        "Every person you’ve ever trusted has lied to you about something important.",
+        "You’ll never hear the exact moment when your body starts to fail—it will betray you in silence.",
+        "The person who loves you most will still forget you in the end.",
+        "Every comforting thought you’ve ever had was just your brain trying to protect itself from the truth.",
+        "The last thing you see might not be something you love but something you fear.",
+        "You will die a Virgin, skill issue",
+        "The moments you feel happiest are the ones slipping away the fastest.",
+        "Every breath you take is borrowed, and one day you’ll have to give it back.",
+        "The universe didn’t care when you were born, and it won’t notice when you’re gone."
+      ]
+    },
+    "gravity": {
+      "type": "response",
+      "aliases": [
+        "bestshow",
+        "help"
+      ],
+      "cooldown_seconds": 30,
+      "responses": [
+        "YES, YES, BURN THE CHILD!",
+        "When there’s no cops around, anything’s legal!",
+        "who wants to put on some blindfolds and get into my car",
+        "Mommy, is the floating head going to eat us?",
+        "Children Fighting..... I Can Sell This!",
+        "NON-SPECIFIC EXCUSE!",
+        "STAN IS SICK AND NEEDS A BEAR. - DR. MEDICINE",
+        "The future... IS IN THE PAST! ONWARDS, AOSHIMA!",
+        "SHMEBULOCK",
+        "You deserve a prize. Here, have a head that's always screaming.",
+        "Finally, an excuse to punch a teenager!",
+        "I have some children to turn into corpses.",
+        "Darn beautiful men, always eating my trash! Wait what?",
+        "Reality is an illusion. The universe is a hologram. Buy gold. Byeee!",
+        "I AM THE GOD OF DESTRUCTION!",
+        "Road safety laws prepare to be ignored!!",
+        "Wow, this is worthless",
+        "Oh no! The tax collectors... They found me!",
+        "Today I learned that morality is relative",
+        "Get em, get em!",
+        "Jean Paul Sartre once postulated that every living thing is born without reason, prolongs itself out of weakness, and dies by chance.",
+        "Victory! Honor! Destiny! Mutton!",
+        "There are sine who call me Mermando. This is because Mermando is my name.",
+        "We’ll meet again, don’t know where don’t know when, but I know we’ll meet again some sunny day!",
+        "I ate a man alive tonight.",
+        "Larry King’s decapitated wax head wants num-nums.",
+        "The inflatable pool duck revolution is at hand!",
+        "Songs are like hugs that mouths give to ears!",
+        "Are you sick of piles of owls constantly blocking your driveway?! Well then you gotta get Owl Trowel!",
+        "Studies show that keeping a ladder in the house is more dangerous than a loaded gun. That’s why I own ten guns–in case some maniac tries to sneak in a ladder!",
+        "Llamas are nature’s greatest warriors.",
+        "I smell… *dramatic pan* emotional issues.",
+        "The dance floor is a mine field! A mine field, Tyrone!",
+        "Woah, that’s amazing! And morally ambiguous!",
+        "Am I a man? Am I a baby? These are legitimate questions.",
+        "Going to the golf course after dark you say? I don't know, we, may have to break in..JUST KIDDING LET'S BREAK IN!!",
+        "Nobody thinks it’s cute when I lie naked on the living room floor.",
+        "You can't undo who you are.",
+        "There's no cops in the forest, we take this to our graves.",
+        "I COULD BUY AND SELL YOU, OLD MAN!",
+        "It's the nights that are the hardest"
+      ]
+    }
+  },
+  "triggers": [
+    {
+      "phrases": [
+        "baf"
+      ],
+      "match": "contains",
+      "mode": "any",
+      "responses": [
+        "lek"
+      ]
+    },
+    {
+      "phrases": [
+        "hello there"
+      ],
+      "match": "contains",
+      "mode": "any",
+      "responses": [
+        "GENERAL {user_upper}!"
+      ]
+    },
+    {
+      "phrases": [
+        "rush b"
+      ],
+      "match": "contains",
+      "mode": "any",
+      "responses": [
+        "Cyka blyat! Don't stop, no fear! 🔫"
+      ]
+    },
+    {
+      "phrases": [
+        "agamoto"
+      ],
+      "match": "contains",
+      "mode": "any",
+      "responses": [
+        "Ať žije císař Agamoto!"
+      ]
+    },
+    {
+      "phrases": [
+        "kentaur"
+      ],
+      "match": "contains",
+      "mode": "any",
+      "responses": [
+        "Neříká se magor, říká se kentaur."
+      ]
+    },
+  "timers": {
+    "chat_tips": {
+      "interval_seconds": 300,
+      "responses": [
+        "Zneužijte chat: {prefix}slap, {prefix}kiss, {prefix}hug, {prefix}fight, {prefix}gf, {prefix}gravity, {prefix}deep",
+        "Zneužijte chat: {prefix}slap, {prefix}kiss, {prefix}hug, {prefix}fight, {prefix}gf, {prefix}gravity, {prefix}deep",
+        "Zneužijte chat: {prefix}slap, {prefix}kiss, {prefix}hug, {prefix}fight, {prefix}gf, {prefix}gravity, {prefix}deep",
+        "Zneužijte chat: {prefix}slap, {prefix}kiss, {prefix}hug, {prefix}fight, {prefix}gf, {prefix}gravity, {prefix}deep",
+        "Už jste vyzkoušeli příkaz {prefix}deep? Dejte mu šanci!",
+        "Zábava nekončí! Vyzkoušejte {prefix}fight nebo {prefix}kiss. 🎉",
+        "Obejměte svého streamera pomocí {prefix}hug (Pozor ať neobejmete omylem někoho jiného)",
+        "Zkuste {prefix}slap a ukažte, kdo má v chatu hlavní slovo. 💥"
+      ]
+    },
+    "water_reminder": {
+      "interval_seconds": 1900,
+      "responses": [
+        "💧 Pijte vodu, pijte vodu a nepijte rum! 💧"
+      ]
+    }
+  }
+}
